@@ -1,9 +1,9 @@
-# Beaver-
+Beaver-
         print("No his power level is too low to read minds!")
         chips -= 5
         counterarg1 = input()
-    else:
-        print("Are you stupid? Don't mess around in court! think again!")
+    
+ print("Are you stupid? Don't mess around in court! think again!")
         chips -= 10
         counterarg1 = input()
 
